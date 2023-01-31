@@ -1,1 +1,0 @@
-/usr/bin/c++    -rdynamic CMakeFiles/03a_currentControl.dir/src/basic/03a_currentControl.cpp.o  -o bin/03a_currentControl  -L/home/ariccspstk/gluon/innfos-cpp-sdk/example/../sdk/lib/linux_x86_64 -Wl,-rpath,/home/ariccspstk/gluon/innfos-cpp-sdk/example/../sdk/lib/linux_x86_64 -lActuatorController -lpthread 
